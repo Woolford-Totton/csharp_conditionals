@@ -1,0 +1,14 @@
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\bin\Debug\netcoreapp3.1\LS_3_Conditionals.exe
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\bin\Debug\netcoreapp3.1\LS_3_Conditionals.deps.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\bin\Debug\netcoreapp3.1\LS_3_Conditionals.runtimeconfig.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\bin\Debug\netcoreapp3.1\LS_3_Conditionals.runtimeconfig.dev.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\bin\Debug\netcoreapp3.1\LS_3_Conditionals.dll
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\bin\Debug\netcoreapp3.1\LS_3_Conditionals.pdb
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\obj\Debug\netcoreapp3.1\LS_3_Conditionals.csproj.AssemblyReference.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\obj\Debug\netcoreapp3.1\LS_3_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\obj\Debug\netcoreapp3.1\LS_3_Conditionals.AssemblyInfoInputs.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\obj\Debug\netcoreapp3.1\LS_3_Conditionals.AssemblyInfo.cs
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\obj\Debug\netcoreapp3.1\LS_3_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\obj\Debug\netcoreapp3.1\LS_3_Conditionals.dll
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\obj\Debug\netcoreapp3.1\LS_3_Conditionals.pdb
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_3_Conditionals\obj\Debug\netcoreapp3.1\LS_3_Conditionals.genruntimeconfig.cache
